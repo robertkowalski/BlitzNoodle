@@ -1,6 +1,4 @@
 node_modules
 *.swp
 *~
-build/*
-tmp/*
-log/*
+
