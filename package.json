@@ -1,0 +1,22 @@
+{
+    "name": "BlitzNoodle"
+  , "version": "0.0.1"
+  , "description": "Integrates a native, tested UglifyJS build ready for deployment to CDN, with logs and rollbacks made possible"
+  , "keywords": ["build", "javascript", "CDN", "asset"]
+  , "author": "Robert Kowalski <rok@kowalski.gd>"
+  , "repository": { "type": "git", "url": "git@github.com:robertkowalski/BlitzNoodle.git" }
+  , "engines": { "node": ">= 0.4.x < 0.8.0" }
+  , "scripts": {
+    "test": "make test"
+  }
+  , "private": true
+  , "dependencies": {
+      "uglify-js": "*"
+  }
+  , "devDependencies": {
+      "chai": ""
+    , "mocha": ""
+    , "sinon-chai": ""
+    , "sinon": ""
+  }
+}
