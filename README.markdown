@@ -6,7 +6,7 @@ BlitzNoodle
 
 BlitzNoodle is a command line tool for packing and minifying JavaScript assets for use with a CDN using UglifyJS.
 
-It supports multiple files as input for merging into the minified target files and also multiple files as final targets.
+It supports multiple files as input for merging the minified target files and also supports multiple files as final targets.
 
 BlitzNoodle creates unique folders and filenames for the targets, based on the current date.
 
