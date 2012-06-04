@@ -5,7 +5,7 @@ BlitzNoodle
 
 BlitzNoodle was just a proof of concept for an internal Jimdo presentation.
 
-For production use I would suggest using [grunt](https://github.com/cowboy/grunt) or the [html5 boilerplate build script](https://github.com/h5bp/node-build-script)
+For production use I would suggest using [grunt](https://github.com/cowboy/grunt), the [html5 boilerplate build script](https://github.com/h5bp/node-build-script) or [smoosh](https://github.com/fat/smoosh)
 
 ---------------------------------------
 
